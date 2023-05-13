@@ -1,3 +1,2 @@
-# Example MkDocs deploy GitHub Action
-
-This is a template that uses the  [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.
+# User manual UM02-0821
+This reposiroty holds a digitalised version of the manual for the UM02-0821 1D/2D portable scanner.  
