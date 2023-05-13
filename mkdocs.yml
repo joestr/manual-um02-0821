@@ -1,10 +1,29 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: User manual for UM02-0821
+site_description: 'A digitalised user manual for UM02-0821 1D/2D portable scanner.'
+site_author: Joel Strasser'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'joestr/manual-um02-0821'
+repo_url: 'https://github.com/joestr/manual-um02-0821'
 nav:
     - Home: index.md
+    - Introduction and features: introduction-and-features.md
+    - Intialization settings: initialization-settings.md
+    - Version information: version-information.md
+    - Pair with Android, iOS or PC with Bluetooth: pair-with-android-ios-pc-with-bluetooth.md
+    - Pull-up and hide keyboard on iOS: pull-up-and-hide-keyboard-on-ios.md
+    - Sound and vibration settings: sound-and-vibration-settings.md
+    - Dormancy settings: dormancy-settings.md
+    - Bluetooth mode settings: bluetooth-mode-settings.md
+    - Other wireless communication modes: other-wireless-communication-modes.md
+    - End character settings: end-character-settings.md
+    - Transmission speed settings: transmission-speed-settings.md
+    - Keyboard language settings: keyboard-language-settings.md
+    - Operating mode: operating-mode.md
+    - GS conversion character settings: gs-conversion-character-settings.md
+    - Bluetooth name change settings: bluetooth-name-change-settings.md
+    - Hide front and back character: hide-front-and-back-character.md
+    - Prefix and suffix settings: prefix-and-suffix-settings.md
+    - FAQ: faq.md
+    - Buzzer and indicator light state: buzzer-and-indicator-light-state.md
 theme:
   name: 'material'
